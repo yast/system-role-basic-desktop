@@ -14,7 +14,9 @@ textdomain="control"
         <label>GNOME Desktop (Basic)</label>
       </basic_desktop_host_role>
       <basic_desktop_host_role_description>
-        <label>GNOME Desktop environment with only essential graphical applications installed (File Manager, Web Browser) and using X11 technology</label>
+        <label>• Basic GNOME Desktop environment.
+• Preinstalled with only essential graphical applications (File Manager, Web Browser).
+• Uses X11 technology.</label>
       </basic_desktop_host_role_description>
     </texts>
 
